@@ -1,0 +1,43 @@
+.h1 {
+    margin-top: 20px;
+}
+.text-end{
+    margin-right: 50px;
+    padding: 20px;
+  }
+  .Head-container {
+    font-size: 20px;
+  }
+
+  .body {
+    padding: 50px;
+  }
+  .feature-image {
+    border-radius: 45%;
+    border: 2px solid black;
+  }
+  .featur {
+    margin-left: 150px;
+  }
+  .feature-title {
+    font-weight: bold;
+    font-size: larger;
+  }
+  .feature {
+    margin-left: 150px;
+  }
+ #selection {
+    width: 500px;
+    height: 50px;
+ }
+ #search-button {
+    height: 50px;
+ }
+
+
+  @media (max-width: 1250px) {
+    .mess-details {
+      flex-direction: column;
+      height: 100%;
+    }
+  }
